@@ -1,0 +1,3 @@
+
+carname = "Volvo"
+print(carname)
